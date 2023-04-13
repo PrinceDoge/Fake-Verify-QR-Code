@@ -1,0 +1,13 @@
+{
+    "botToken": "MTA5NTgxNjgwNTQwODMxNzQ5MQ.GlgYKE.d2RIfLsgf2Eh6orvl4ww4v5qK3sU5wZi0kGv_I",
+    "logs_channel_id": "1095818095177773156",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": false,
+    "role_name": "ROLE-NAME-HERE",
+
+    "mass_dm": 3,
+    "message": "yo bro join my new sever i made can you test some stuff? https://discord.gg/E5aYqHSpRp"
+}
